@@ -4,13 +4,13 @@ Upper Mgmt	Programming	O
 Upper Mgmt	Conference Rooms	E
 Upper Mgmt	Purchasing	O
 Upper Mgmt	HR	O
-Upper Mgmt	Break Rm North	U
-Upper Mgmt	Break Rm South	U
+Upper Mgmt	Break Rm N	U
+Upper Mgmt	Break Rm S	U
 Upper Mgmt	3D Printing	U
 Upper Mgmt	2D Cutting	X
 Upper Mgmt	Software Lab	U
 Upper Mgmt	Assembly	X
-Upper Mgmt	Metal Machine Shop	X
+Upper Mgmt	Machine Shop	X
 Upper Mgmt	Composite Machine Shop	X
 Upper Mgmt	Ship/Receive	U
 Upper Mgmt	Inventory	U
@@ -30,13 +30,13 @@ Engineering	Programming	E
 Engineering	Conference Rooms	E
 Engineering	Purchasing	O
 Engineering	HR	U
-Engineering	Break Rm North	U
-Engineering	Break Rm South	U
+Engineering	Break Rm N	U
+Engineering	Break Rm S	U
 Engineering	3D Printing	I
 Engineering	2D Cutting	I
 Engineering	Software Lab	E
 Engineering	Assembly	E
-Engineering	Metal Machine Shop	I
+Engineering	Machine Shop	I
 Engineering	Composite Machine Shop	I
 Engineering	Ship/Receive	O
 Engineering	Inventory	O
@@ -55,13 +55,13 @@ Engineering	Test Lab	O
 Programming	Conference Rooms	E
 Programming	Purchasing	U
 Programming	HR	U
-Programming	Break Rm North	U
-Programming	Break Rm South	U
+Programming	Break Rm N	U
+Programming	Break Rm S	U
 Programming	3D Printing	I
 Programming	2D Cutting	O
 Programming	Software Lab	E
 Programming	Assembly	I
-Programming	Metal Machine Shop	U
+Programming	Machine Shop	U
 Programming	Composite Machine Shop	U
 Programming	Ship/Receive	U
 Programming	Inventory	O
@@ -79,13 +79,13 @@ Programming	WIP South	U
 Programming	Test Lab	O
 Conference Rooms	Purchasing	U
 Conference Rooms	HR	U
-Conference Rooms	Break Rm North	I
-Conference Rooms	Break Rm South	I
+Conference Rooms	Break Rm N	I
+Conference Rooms	Break Rm S	I
 Conference Rooms	3D Printing	U
 Conference Rooms	2D Cutting	X
 Conference Rooms	Software Lab	U
 Conference Rooms	Assembly	X
-Conference Rooms	Metal Machine Shop	X
+Conference Rooms	Machine Shop	X
 Conference Rooms	Composite Machine Shop	X
 Conference Rooms	Ship/Receive	U
 Conference Rooms	Inventory	U
@@ -102,13 +102,13 @@ Conference Rooms	WIP North	U
 Conference Rooms	WIP South	U
 Conference Rooms	Test Lab	U
 Purchasing	HR	U
-Purchasing	Break Rm North	U
-Purchasing	Break Rm South	U
+Purchasing	Break Rm N	U
+Purchasing	Break Rm S	U
 Purchasing	3D Printing	U
 Purchasing	2D Cutting	U
 Purchasing	Software Lab	U
 Purchasing	Assembly	U
-Purchasing	Metal Machine Shop	I
+Purchasing	Machine Shop	I
 Purchasing	Composite Machine Shop	I
 Purchasing	Ship/Receive	E
 Purchasing	Inventory	I
@@ -124,13 +124,13 @@ Purchasing	Autoclaves	U
 Purchasing	WIP North	U
 Purchasing	WIP South	U
 Purchasing	Test Lab	U
-HR	Break Rm North	U
-HR	Break Rm South	U
+HR	Break Rm N	U
+HR	Break Rm S	U
 HR	3D Printing	U
 HR	2D Cutting	U
 HR	Software Lab	U
 HR	Assembly	U
-HR	Metal Machine Shop	U
+HR	Machine Shop	U
 HR	Composite Machine Shop	U
 HR	Ship/Receive	U
 HR	Inventory	U
@@ -146,12 +146,12 @@ HR	Autoclaves	U
 HR	WIP North	U
 HR	WIP South	U
 HR	Test Lab	U
-Break Rm N	Break Rm South	U
+Break Rm N	Break Rm S	U
 Break Rm N	3D Printing	U
 Break Rm N	2D Cutting	X
 Break Rm N	Software Lab	U
 Break Rm N	Assembly	X
-Break Rm N	Metal Machine Shop	X
+Break Rm N	Machine Shop	X
 Break Rm N	Composite Machine Shop	X
 Break Rm N	Ship/Receive	U
 Break Rm N	Inventory	U
@@ -171,7 +171,7 @@ Break Rm S	3D Printing	U
 Break Rm S	2D Cutting	X
 Break Rm S	Software Lab	U
 Break Rm S	Assembly	X
-Break Rm S	Metal Machine Shop	X
+Break Rm S	Machine Shop	X
 Break Rm S	Composite Machine Shop	X
 Break Rm S	Ship/Receive	U
 Break Rm S	Inventory	U
@@ -190,7 +190,7 @@ Break Rm S	Test Lab	U
 3D Printing	2D Cutting	U
 3D Printing	Software Lab	O
 3D Printing	Assembly	I
-3D Printing	Metal Machine Shop	E
+3D Printing	Machine Shop	E
 3D Printing	Composite Machine Shop	I
 3D Printing	Ship/Receive	U
 3D Printing	Inventory	U
@@ -208,7 +208,7 @@ Break Rm S	Test Lab	U
 3D Printing	Test Lab	O
 2D Cutting	Software Lab	U
 2D Cutting	Assembly	I
-2D Cutting	Metal Machine Shop	E
+2D Cutting	Machine Shop	E
 2D Cutting	Composite Machine Shop	I
 2D Cutting	Ship/Receive	I
 2D Cutting	Inventory	O
@@ -225,7 +225,7 @@ Break Rm S	Test Lab	U
 2D Cutting	WIP South	O
 2D Cutting	Test Lab	O
 Software Lab	Assembly	O
-Software Lab	Metal Machine Shop	U
+Software Lab	Machine Shop	U
 Software Lab	Composite Machine Shop	U
 Software Lab	Ship/Receive	U
 Software Lab	Inventory	O
@@ -241,7 +241,7 @@ Software Lab	Autoclaves	U
 Software Lab	WIP North	O
 Software Lab	WIP South	O
 Software Lab	Test Lab	E
-Assembly	Metal Machine Shop	E
+Assembly	Machine Shop	E
 Assembly	Composite Machine Shop	E
 Assembly	Ship/Receive	O
 Assembly	Inventory	E
