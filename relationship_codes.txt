@@ -1,379 +1,379 @@
-DepartmentA,DepartmentB,Relationship
-Upper Mgmt,Engineering,O
-Upper Mgmt,Programming,O
-Upper Mgmt,Conference Rooms,E
-Upper Mgmt,Purchasing,O
-Upper Mgmt,HR,O
-Upper Mgmt,Break Rm North,U
-Upper Mgmt,Break Rm South,U
-Upper Mgmt,3D Printing,U
-Upper Mgmt,2D Cutting,X
-Upper Mgmt,Software Lab,U
-Upper Mgmt,Assembly,X
-Upper Mgmt,Metal Machine Shop,X
-Upper Mgmt,Composite Machine Shop,X
-Upper Mgmt,Ship/Receive,U
-Upper Mgmt,Inventory,U
-Upper Mgmt,Clean Rm N&S,U
-Upper Mgmt,Freezers W & S,U
-Upper Mgmt,Shop Manager,I
-Upper Mgmt,Wet Layup,U
-Upper Mgmt,Prepreg Layup,U
-Upper Mgmt,Paint,X
-Upper Mgmt,Cure Ovens,X
-Upper Mgmt,Composite Sanding,X
-Upper Mgmt,Autoclaves,X
-Upper Mgmt,WIP North,U
-Upper Mgmt,WIP South,U
-Upper Mgmt,Test Lab,U
-Engineering,Programming,E
-Engineering,Conference Rooms,E
-Engineering,Purchasing,O
-Engineering,HR,U
-Engineering,Break Rm North,U
-Engineering,Break Rm South,U
-Engineering,3D Printing,I
-Engineering,2D Cutting,I
-Engineering,Software Lab,E
-Engineering,Assembly,E
-Engineering,Metal Machine Shop,I
-Engineering,Composite Machine Shop,I
-Engineering,Ship/Receive,O
-Engineering,Inventory,O
-Engineering,Clean Rm N&S,O
-Engineering,Freezers W & S,U
-Engineering,Shop Manager,E
-Engineering,Wet Layup,O
-Engineering,Prepreg Layup,O
-Engineering,Paint,U
-Engineering,Cure Ovens,O
-Engineering,Composite Sanding,O
-Engineering,Autoclaves,O
-Engineering,WIP North,U
-Engineering,WIP South,U
-Engineering,Test Lab,O
-Programming,Conference Rooms,E
-Programming,Purchasing,U
-Programming,HR,U
-Programming,Break Rm North,U
-Programming,Break Rm South,U
-Programming,3D Printing,I
-Programming,2D Cutting,O
-Programming,Software Lab,E
-Programming,Assembly,I
-Programming,Metal Machine Shop,U
-Programming,Composite Machine Shop,U
-Programming,Ship/Receive,U
-Programming,Inventory,O
-Programming,Clean Rm N&S,U
-Programming,Freezers W & S,U
-Programming,Shop Manager,I
-Programming,Wet Layup,U
-Programming,Prepreg Layup,U
-Programming,Paint,U
-Programming,Cure Ovens,X
-Programming,Composite Sanding,U
-Programming,Autoclaves,U
-Programming,WIP North,U
-Programming,WIP South,U
-Programming,Test Lab,O
-Conference Rooms,Purchasing,U
-Conference Rooms,HR,U
-Conference Rooms,Break Rm North,I
-Conference Rooms,Break Rm South,I
-Conference Rooms,3D Printing,U
-Conference Rooms,2D Cutting,X
-Conference Rooms,Software Lab,U
-Conference Rooms,Assembly,X
-Conference Rooms,Metal Machine Shop,X
-Conference Rooms,Composite Machine Shop,X
-Conference Rooms,Ship/Receive,U
-Conference Rooms,Inventory,U
-Conference Rooms,Clean Rm N&S,U
-Conference Rooms,Freezers W & S,U
-Conference Rooms,Shop Manager,O
-Conference Rooms,Wet Layup,U
-Conference Rooms,Prepreg Layup,U
-Conference Rooms,Paint,X
-Conference Rooms,Cure Ovens,X
-Conference Rooms,Composite Sanding,X
-Conference Rooms,Autoclaves,U
-Conference Rooms,WIP North,U
-Conference Rooms,WIP South,U
-Conference Rooms,Test Lab,U
-Purchasing,HR,U
-Purchasing,Break Rm North,U
-Purchasing,Break Rm South,U
-Purchasing,3D Printing,U
-Purchasing,2D Cutting,U
-Purchasing,Software Lab,U
-Purchasing,Assembly,U
-Purchasing,Metal Machine Shop,I
-Purchasing,Composite Machine Shop,I
-Purchasing,Ship/Receive,E
-Purchasing,Inventory,I
-Purchasing,Clean Rm N&S,U
-Purchasing,Freezers W & S,U
-Purchasing,Shop Manager,O
-Purchasing,Wet Layup,U
-Purchasing,Prepreg Layup,U
-Purchasing,Paint,U
-Purchasing,Cure Ovens,X
-Purchasing,Composite Sanding,U
-Purchasing,Autoclaves,U
-Purchasing,WIP North,U
-Purchasing,WIP South,U
-Purchasing,Test Lab,U
-HR,Break Rm North,U
-HR,Break Rm South,U
-HR,3D Printing,U
-HR,2D Cutting,U
-HR,Software Lab,U
-HR,Assembly,U
-HR,Metal Machine Shop,U
-HR,Composite Machine Shop,U
-HR,Ship/Receive,U
-HR,Inventory,U
-HR,Clean Rm N&S,U
-HR,Freezers W & S,U
-HR,Shop Manager,I
-HR,Wet Layup,U
-HR,Prepreg Layup,U
-HR,Paint,U
-HR,Cure Ovens,X
-HR,Composite Sanding,U
-HR,Autoclaves,U
-HR,WIP North,U
-HR,WIP South,U
-HR,Test Lab,U
-Break Rm North,Break Rm South,U
-Break Rm North,3D Printing,U
-Break Rm North,2D Cutting,X
-Break Rm North,Software Lab,U
-Break Rm North,Assembly,X
-Break Rm North,Metal Machine Shop,X
-Break Rm North,Composite Machine Shop,X
-Break Rm North,Ship/Receive,U
-Break Rm North,Inventory,U
-Break Rm North,Clean Rm N&S,U
-Break Rm North,Freezers W & S,U
-Break Rm North,Shop Manager,U
-Break Rm North,Wet Layup,U
-Break Rm North,Prepreg Layup,U
-Break Rm North,Paint,X
-Break Rm North,Cure Ovens,X
-Break Rm North,Composite Sanding,X
-Break Rm North,Autoclaves,X
-Break Rm North,WIP North,X
-Break Rm North,WIP South,X
-Break Rm North,Test Lab,U
-Break Rm South,3D Printing,U
-Break Rm South,2D Cutting,X
-Break Rm South,Software Lab,U
-Break Rm South,Assembly,X
-Break Rm South,Metal Machine Shop,X
-Break Rm South,Composite Machine Shop,X
-Break Rm South,Ship/Receive,U
-Break Rm South,Inventory,U
-Break Rm South,Clean Rm N&S,U
-Break Rm South,Freezers W & S,U
-Break Rm South,Shop Manager,U
-Break Rm South,Wet Layup,U
-Break Rm South,Prepreg Layup,U
-Break Rm South,Paint,X
-Break Rm South,Cure Ovens,X
-Break Rm South,Composite Sanding,X
-Break Rm South,Autoclaves,X
-Break Rm South,WIP North,X
-Break Rm South,WIP South,X
-Break Rm South,Test Lab,U
-3D Printing,2D Cutting,U
-3D Printing,Software Lab,O
-3D Printing,Assembly,I
-3D Printing,Metal Machine Shop,E
-3D Printing,Composite Machine Shop,I
-3D Printing,Ship/Receive,U
-3D Printing,Inventory,U
-3D Printing,Clean Rm N&S,X
-3D Printing,Freezers W & S,U
-3D Printing,Shop Manager,O
-3D Printing,Wet Layup,U
-3D Printing,Prepreg Layup,U
-3D Printing,Paint,U
-3D Printing,Cure Ovens,U
-3D Printing,Composite Sanding,U
-3D Printing,Autoclaves,U
-3D Printing,WIP North,O
-3D Printing,WIP South,O
-3D Printing,Test Lab,O
-2D Cutting,Software Lab,U
-2D Cutting,Assembly,I
-2D Cutting,Metal Machine Shop,E
-2D Cutting,Composite Machine Shop,I
-2D Cutting,Ship/Receive,I
-2D Cutting,Inventory,O
-2D Cutting,Clean Rm N&S,X
-2D Cutting,Freezers W & S,U
-2D Cutting,Shop Manager,O
-2D Cutting,Wet Layup,U
-2D Cutting,Prepreg Layup,I
-2D Cutting,Paint,U
-2D Cutting,Cure Ovens,U
-2D Cutting,Composite Sanding,U
-2D Cutting,Autoclaves,U
-2D Cutting,WIP North,O
-2D Cutting,WIP South,O
-2D Cutting,Test Lab,O
-Software Lab,Assembly,O
-Software Lab,Metal Machine Shop,U
-Software Lab,Composite Machine Shop,U
-Software Lab,Ship/Receive,U
-Software Lab,Inventory,O
-Software Lab,Clean Rm N&S,U
-Software Lab,Freezers W & S,U
-Software Lab,Shop Manager,O
-Software Lab,Wet Layup,U
-Software Lab,Prepreg Layup,U
-Software Lab,Paint,U
-Software Lab,Cure Ovens,U
-Software Lab,Composite Sanding,X
-Software Lab,Autoclaves,U
-Software Lab,WIP North,O
-Software Lab,WIP South,O
-Software Lab,Test Lab,E
-Assembly,Metal Machine Shop,E
-Assembly,Composite Machine Shop,E
-Assembly,Ship/Receive,O
-Assembly,Inventory,E
-Assembly,Clean Rm N&S,A
-Assembly,Freezers W & S,U
-Assembly,Shop Manager,E
-Assembly,Wet Layup,U
-Assembly,Prepreg Layup,U
-Assembly,Paint,O
-Assembly,Cure Ovens,O
-Assembly,Composite Sanding,X
-Assembly,Autoclaves,O
-Assembly,WIP North,E
-Assembly,WIP South,E
-Assembly,Test Lab,E
-Metal Machine Shop,Composite Machine Shop,E
-Metal Machine Shop,Ship/Receive,I
-Metal Machine Shop,Inventory,I
-Metal Machine Shop,Clean Rm N&S,X
-Metal Machine Shop,Freezers W & S,U
-Metal Machine Shop,Shop Manager,I
-Metal Machine Shop,Wet Layup,U
-Metal Machine Shop,Prepreg Layup,U
-Metal Machine Shop,Paint,U
-Metal Machine Shop,Cure Ovens,O
-Metal Machine Shop,Composite Sanding,O
-Metal Machine Shop,Autoclaves,U
-Metal Machine Shop,WIP North,E
-Metal Machine Shop,WIP South,E
-Metal Machine Shop,Test Lab,I
-Composite Machine Shop,Ship/Receive,O
-Composite Machine Shop,Inventory,I
-Composite Machine Shop,Clean Rm N&S,X
-Composite Machine Shop,Freezers W & S,U
-Composite Machine Shop,Shop Manager,I
-Composite Machine Shop,Wet Layup,U
-Composite Machine Shop,Prepreg Layup,U
-Composite Machine Shop,Paint,U
-Composite Machine Shop,Cure Ovens,I
-Composite Machine Shop,Composite Sanding,E
-Composite Machine Shop,Autoclaves,E
-Composite Machine Shop,WIP North,E
-Composite Machine Shop,WIP South,E
-Composite Machine Shop,Test Lab,I
-Ship/Receive,Inventory,E
-Ship/Receive,Clean Rm N&S,U
-Ship/Receive,Freezers W & S,I
-Ship/Receive,Shop Manager,O
-Ship/Receive,Wet Layup,U
-Ship/Receive,Prepreg Layup,U
-Ship/Receive,Paint,I
-Ship/Receive,Cure Ovens,U
-Ship/Receive,Composite Sanding,U
-Ship/Receive,Autoclaves,O
-Ship/Receive,WIP North,I
-Ship/Receive,WIP South,I
-Ship/Receive,Test Lab,O
-Inventory,Clean Rm N&S,U
-Inventory,Freezers W & S,E
-Inventory,Shop Manager,I
-Inventory,Wet Layup,I
-Inventory,Prepreg Layup,I
-Inventory,Paint,U
-Inventory,Cure Ovens,U
-Inventory,Composite Sanding,U
-Inventory,Autoclaves,U
-Inventory,WIP North,A
-Inventory,WIP South,A
-Inventory,Test Lab,O
-Clean Rm N&S,Freezers W & S,O
-Clean Rm N&S,Shop Manager,O
-Clean Rm N&S,Wet Layup,O
-Clean Rm N&S,Prepreg Layup,A
-Clean Rm N&S,Paint,U
-Clean Rm N&S,Cure Ovens,O
-Clean Rm N&S,Composite Sanding,U
-Clean Rm N&S,Autoclaves,O
-Clean Rm N&S,WIP North,O
-Clean Rm N&S,WIP South,U
-Clean Rm N&S,Test Lab,U
-Freezers W & S,Shop Manager,O
-Freezers W & S,Wet Layup,I
-Freezers W & S,Prepreg Layup,A
-Freezers W & S,Paint,U
-Freezers W & S,Cure Ovens,X
-Freezers W & S,Composite Sanding,U
-Freezers W & S,Autoclaves,O
-Freezers W & S,WIP North,O
-Freezers W & S,WIP South,O
-Freezers W & S,Test Lab,U
-Shop Manager,Wet Layup,O
-Shop Manager,Prepreg Layup,O
-Shop Manager,Paint,O
-Shop Manager,Cure Ovens,O
-Shop Manager,Composite Sanding,O
-Shop Manager,Autoclaves,O
-Shop Manager,WIP North,I
-Shop Manager,WIP South,I
-Shop Manager,Test Lab,O
-Wet Layup,Prepreg Layup,E
-Wet Layup,Paint,U
-Wet Layup,Cure Ovens,I
-Wet Layup,Composite Sanding,I
-Wet Layup,Autoclaves,U
-Wet Layup,WIP North,O
-Wet Layup,WIP South,O
-Wet Layup,Test Lab,U
-Prepreg Layup,Paint,O
-Prepreg Layup,Cure Ovens,I
-Prepreg Layup,Composite Sanding,I
-Prepreg Layup,Autoclaves,A
-Prepreg Layup,WIP North,I
-Prepreg Layup,WIP South,I
-Prepreg Layup,Test Lab,U
-Paint,Cure Ovens,I
-Paint,Composite Sanding,I
-Paint,Autoclaves,U
-Paint,WIP North,O
-Paint,WIP South,O
-Paint,Test Lab,U
-Cure Ovens,Composite Sanding,I
-Cure Ovens,Autoclaves,I
-Cure Ovens,WIP North,O
-Cure Ovens,WIP South,O
-Cure Ovens,Test Lab,X
-Composite Sanding,Autoclaves,I
-Composite Sanding,WIP North,O
-Composite Sanding,WIP South,O
-Composite Sanding,Test Lab,X
-Autoclaves,WIP North,I
-Autoclaves,WIP South,I
-Autoclaves,Test Lab,U
-WIP North,WIP South,X
-WIP North,Test Lab,U
-WIP South,Test Lab,U
+DepartmentA	DepartmentB	Relationship
+Upper Mgmt	Engineering	O
+Upper Mgmt	Programming	O
+Upper Mgmt	Conference Rooms	E
+Upper Mgmt	Purchasing	O
+Upper Mgmt	HR	O
+Upper Mgmt	Break Rm North	U
+Upper Mgmt	Break Rm South	U
+Upper Mgmt	3D Printing	U
+Upper Mgmt	2D Cutting	X
+Upper Mgmt	Software Lab	U
+Upper Mgmt	Assembly	X
+Upper Mgmt	Metal Machine Shop	X
+Upper Mgmt	Composite Machine Shop	X
+Upper Mgmt	Ship/Receive	U
+Upper Mgmt	Inventory	U
+Upper Mgmt	Clean Rm N/S	U
+Upper Mgmt	Freezers W/S	U
+Upper Mgmt	Shop Manager	I
+Upper Mgmt	Wet Layup	U
+Upper Mgmt	Prepreg Layup	U
+Upper Mgmt	Paint	X
+Upper Mgmt	Cure Ovens	X
+Upper Mgmt	Composite Sanding	X
+Upper Mgmt	Autoclaves	X
+Upper Mgmt	WIP North	U
+Upper Mgmt	WIP South	U
+Upper Mgmt	Test Lab	U
+Engineering	Programming	E
+Engineering	Conference Rooms	E
+Engineering	Purchasing	O
+Engineering	HR	U
+Engineering	Break Rm North	U
+Engineering	Break Rm South	U
+Engineering	3D Printing	I
+Engineering	2D Cutting	I
+Engineering	Software Lab	E
+Engineering	Assembly	E
+Engineering	Metal Machine Shop	I
+Engineering	Composite Machine Shop	I
+Engineering	Ship/Receive	O
+Engineering	Inventory	O
+Engineering	Clean Rm N/S	O
+Engineering	Freezers W/S	U
+Engineering	Shop Manager	E
+Engineering	Wet Layup	O
+Engineering	Prepreg Layup	O
+Engineering	Paint	U
+Engineering	Cure Ovens	O
+Engineering	Composite Sanding	O
+Engineering	Autoclaves	O
+Engineering	WIP North	U
+Engineering	WIP South	U
+Engineering	Test Lab	O
+Programming	Conference Rooms	E
+Programming	Purchasing	U
+Programming	HR	U
+Programming	Break Rm North	U
+Programming	Break Rm South	U
+Programming	3D Printing	I
+Programming	2D Cutting	O
+Programming	Software Lab	E
+Programming	Assembly	I
+Programming	Metal Machine Shop	U
+Programming	Composite Machine Shop	U
+Programming	Ship/Receive	U
+Programming	Inventory	O
+Programming	Clean Rm N/S	U
+Programming	Freezers W/S	U
+Programming	Shop Manager	I
+Programming	Wet Layup	U
+Programming	Prepreg Layup	U
+Programming	Paint	U
+Programming	Cure Ovens	X
+Programming	Composite Sanding	U
+Programming	Autoclaves	U
+Programming	WIP North	U
+Programming	WIP South	U
+Programming	Test Lab	O
+Conference Rooms	Purchasing	U
+Conference Rooms	HR	U
+Conference Rooms	Break Rm North	I
+Conference Rooms	Break Rm South	I
+Conference Rooms	3D Printing	U
+Conference Rooms	2D Cutting	X
+Conference Rooms	Software Lab	U
+Conference Rooms	Assembly	X
+Conference Rooms	Metal Machine Shop	X
+Conference Rooms	Composite Machine Shop	X
+Conference Rooms	Ship/Receive	U
+Conference Rooms	Inventory	U
+Conference Rooms	Clean Rm N/S	U
+Conference Rooms	Freezers W/S	U
+Conference Rooms	Shop Manager	O
+Conference Rooms	Wet Layup	U
+Conference Rooms	Prepreg Layup	U
+Conference Rooms	Paint	X
+Conference Rooms	Cure Ovens	X
+Conference Rooms	Composite Sanding	X
+Conference Rooms	Autoclaves	U
+Conference Rooms	WIP North	U
+Conference Rooms	WIP South	U
+Conference Rooms	Test Lab	U
+Purchasing	HR	U
+Purchasing	Break Rm North	U
+Purchasing	Break Rm South	U
+Purchasing	3D Printing	U
+Purchasing	2D Cutting	U
+Purchasing	Software Lab	U
+Purchasing	Assembly	U
+Purchasing	Metal Machine Shop	I
+Purchasing	Composite Machine Shop	I
+Purchasing	Ship/Receive	E
+Purchasing	Inventory	I
+Purchasing	Clean Rm N/S	U
+Purchasing	Freezers W/S	U
+Purchasing	Shop Manager	O
+Purchasing	Wet Layup	U
+Purchasing	Prepreg Layup	U
+Purchasing	Paint	U
+Purchasing	Cure Ovens	X
+Purchasing	Composite Sanding	U
+Purchasing	Autoclaves	U
+Purchasing	WIP North	U
+Purchasing	WIP South	U
+Purchasing	Test Lab	U
+HR	Break Rm North	U
+HR	Break Rm South	U
+HR	3D Printing	U
+HR	2D Cutting	U
+HR	Software Lab	U
+HR	Assembly	U
+HR	Metal Machine Shop	U
+HR	Composite Machine Shop	U
+HR	Ship/Receive	U
+HR	Inventory	U
+HR	Clean Rm N/S	U
+HR	Freezers W/S	U
+HR	Shop Manager	I
+HR	Wet Layup	U
+HR	Prepreg Layup	U
+HR	Paint	U
+HR	Cure Ovens	X
+HR	Composite Sanding	U
+HR	Autoclaves	U
+HR	WIP North	U
+HR	WIP South	U
+HR	Test Lab	U
+Break Rm North	Break Rm South	U
+Break Rm North	3D Printing	U
+Break Rm North	2D Cutting	X
+Break Rm North	Software Lab	U
+Break Rm North	Assembly	X
+Break Rm North	Metal Machine Shop	X
+Break Rm North	Composite Machine Shop	X
+Break Rm North	Ship/Receive	U
+Break Rm North	Inventory	U
+Break Rm North	Clean Rm N/S	U
+Break Rm North	Freezers W/S	U
+Break Rm North	Shop Manager	U
+Break Rm North	Wet Layup	U
+Break Rm North	Prepreg Layup	U
+Break Rm North	Paint	X
+Break Rm North	Cure Ovens	X
+Break Rm North	Composite Sanding	X
+Break Rm North	Autoclaves	X
+Break Rm North	WIP North	X
+Break Rm North	WIP South	X
+Break Rm North	Test Lab	U
+Break Rm South	3D Printing	U
+Break Rm South	2D Cutting	X
+Break Rm South	Software Lab	U
+Break Rm South	Assembly	X
+Break Rm South	Metal Machine Shop	X
+Break Rm South	Composite Machine Shop	X
+Break Rm South	Ship/Receive	U
+Break Rm South	Inventory	U
+Break Rm South	Clean Rm N/S	U
+Break Rm South	Freezers W/S	U
+Break Rm South	Shop Manager	U
+Break Rm South	Wet Layup	U
+Break Rm South	Prepreg Layup	U
+Break Rm South	Paint	X
+Break Rm South	Cure Ovens	X
+Break Rm South	Composite Sanding	X
+Break Rm South	Autoclaves	X
+Break Rm South	WIP North	X
+Break Rm South	WIP South	X
+Break Rm South	Test Lab	U
+3D Printing	2D Cutting	U
+3D Printing	Software Lab	O
+3D Printing	Assembly	I
+3D Printing	Metal Machine Shop	E
+3D Printing	Composite Machine Shop	I
+3D Printing	Ship/Receive	U
+3D Printing	Inventory	U
+3D Printing	Clean Rm N/S	X
+3D Printing	Freezers W/S	U
+3D Printing	Shop Manager	O
+3D Printing	Wet Layup	U
+3D Printing	Prepreg Layup	U
+3D Printing	Paint	U
+3D Printing	Cure Ovens	U
+3D Printing	Composite Sanding	U
+3D Printing	Autoclaves	U
+3D Printing	WIP North	O
+3D Printing	WIP South	O
+3D Printing	Test Lab	O
+2D Cutting	Software Lab	U
+2D Cutting	Assembly	I
+2D Cutting	Metal Machine Shop	E
+2D Cutting	Composite Machine Shop	I
+2D Cutting	Ship/Receive	I
+2D Cutting	Inventory	O
+2D Cutting	Clean Rm N/S	X
+2D Cutting	Freezers W/S	U
+2D Cutting	Shop Manager	O
+2D Cutting	Wet Layup	U
+2D Cutting	Prepreg Layup	I
+2D Cutting	Paint	U
+2D Cutting	Cure Ovens	U
+2D Cutting	Composite Sanding	U
+2D Cutting	Autoclaves	U
+2D Cutting	WIP North	O
+2D Cutting	WIP South	O
+2D Cutting	Test Lab	O
+Software Lab	Assembly	O
+Software Lab	Metal Machine Shop	U
+Software Lab	Composite Machine Shop	U
+Software Lab	Ship/Receive	U
+Software Lab	Inventory	O
+Software Lab	Clean Rm N/S	U
+Software Lab	Freezers W/S	U
+Software Lab	Shop Manager	O
+Software Lab	Wet Layup	U
+Software Lab	Prepreg Layup	U
+Software Lab	Paint	U
+Software Lab	Cure Ovens	U
+Software Lab	Composite Sanding	X
+Software Lab	Autoclaves	U
+Software Lab	WIP North	O
+Software Lab	WIP South	O
+Software Lab	Test Lab	E
+Assembly	Metal Machine Shop	E
+Assembly	Composite Machine Shop	E
+Assembly	Ship/Receive	O
+Assembly	Inventory	E
+Assembly	Clean Rm N/S	A
+Assembly	Freezers W/S	U
+Assembly	Shop Manager	E
+Assembly	Wet Layup	U
+Assembly	Prepreg Layup	U
+Assembly	Paint	O
+Assembly	Cure Ovens	O
+Assembly	Composite Sanding	X
+Assembly	Autoclaves	O
+Assembly	WIP North	E
+Assembly	WIP South	E
+Assembly	Test Lab	E
+Metal Machine Shop	Composite Machine Shop	E
+Metal Machine Shop	Ship/Receive	I
+Metal Machine Shop	Inventory	I
+Metal Machine Shop	Clean Rm N/S	X
+Metal Machine Shop	Freezers W/S	U
+Metal Machine Shop	Shop Manager	I
+Metal Machine Shop	Wet Layup	U
+Metal Machine Shop	Prepreg Layup	U
+Metal Machine Shop	Paint	U
+Metal Machine Shop	Cure Ovens	O
+Metal Machine Shop	Composite Sanding	O
+Metal Machine Shop	Autoclaves	U
+Metal Machine Shop	WIP North	E
+Metal Machine Shop	WIP South	E
+Metal Machine Shop	Test Lab	I
+Composite Machine Shop	Ship/Receive	O
+Composite Machine Shop	Inventory	I
+Composite Machine Shop	Clean Rm N/S	X
+Composite Machine Shop	Freezers W/S	U
+Composite Machine Shop	Shop Manager	I
+Composite Machine Shop	Wet Layup	U
+Composite Machine Shop	Prepreg Layup	U
+Composite Machine Shop	Paint	U
+Composite Machine Shop	Cure Ovens	I
+Composite Machine Shop	Composite Sanding	E
+Composite Machine Shop	Autoclaves	E
+Composite Machine Shop	WIP North	E
+Composite Machine Shop	WIP South	E
+Composite Machine Shop	Test Lab	I
+Ship/Receive	Inventory	E
+Ship/Receive	Clean Rm N/S	U
+Ship/Receive	Freezers W/S	I
+Ship/Receive	Shop Manager	O
+Ship/Receive	Wet Layup	U
+Ship/Receive	Prepreg Layup	U
+Ship/Receive	Paint	I
+Ship/Receive	Cure Ovens	U
+Ship/Receive	Composite Sanding	U
+Ship/Receive	Autoclaves	O
+Ship/Receive	WIP North	I
+Ship/Receive	WIP South	I
+Ship/Receive	Test Lab	O
+Inventory	Clean Rm N/S	U
+Inventory	Freezers W/S	E
+Inventory	Shop Manager	I
+Inventory	Wet Layup	I
+Inventory	Prepreg Layup	I
+Inventory	Paint	U
+Inventory	Cure Ovens	U
+Inventory	Composite Sanding	U
+Inventory	Autoclaves	U
+Inventory	WIP North	A
+Inventory	WIP South	A
+Inventory	Test Lab	O
+Clean Rm N/S	Freezers W/S	O
+Clean Rm N/S	Shop Manager	O
+Clean Rm N/S	Wet Layup	O
+Clean Rm N/S	Prepreg Layup	A
+Clean Rm N/S	Paint	U
+Clean Rm N/S	Cure Ovens	O
+Clean Rm N/S	Composite Sanding	U
+Clean Rm N/S	Autoclaves	O
+Clean Rm N/S	WIP North	O
+Clean Rm N/S	WIP South	U
+Clean Rm N/S	Test Lab	U
+Freezers W/S	Shop Manager	O
+Freezers W/S	Wet Layup	I
+Freezers W/S	Prepreg Layup	A
+Freezers W/S	Paint	U
+Freezers W/S	Cure Ovens	X
+Freezers W/S	Composite Sanding	U
+Freezers W/S	Autoclaves	O
+Freezers W/S	WIP North	O
+Freezers W/S	WIP South	O
+Freezers W/S	Test Lab	U
+Shop Manager	Wet Layup	O
+Shop Manager	Prepreg Layup	O
+Shop Manager	Paint	O
+Shop Manager	Cure Ovens	O
+Shop Manager	Composite Sanding	O
+Shop Manager	Autoclaves	O
+Shop Manager	WIP North	I
+Shop Manager	WIP South	I
+Shop Manager	Test Lab	O
+Wet Layup	Prepreg Layup	E
+Wet Layup	Paint	U
+Wet Layup	Cure Ovens	I
+Wet Layup	Composite Sanding	I
+Wet Layup	Autoclaves	U
+Wet Layup	WIP North	O
+Wet Layup	WIP South	O
+Wet Layup	Test Lab	U
+Prepreg Layup	Paint	O
+Prepreg Layup	Cure Ovens	I
+Prepreg Layup	Composite Sanding	I
+Prepreg Layup	Autoclaves	A
+Prepreg Layup	WIP North	I
+Prepreg Layup	WIP South	I
+Prepreg Layup	Test Lab	U
+Paint	Cure Ovens	I
+Paint	Composite Sanding	I
+Paint	Autoclaves	U
+Paint	WIP North	O
+Paint	WIP South	O
+Paint	Test Lab	U
+Cure Ovens	Composite Sanding	I
+Cure Ovens	Autoclaves	I
+Cure Ovens	WIP North	O
+Cure Ovens	WIP South	O
+Cure Ovens	Test Lab	X
+Composite Sanding	Autoclaves	I
+Composite Sanding	WIP North	O
+Composite Sanding	WIP South	O
+Composite Sanding	Test Lab	X
+Autoclaves	WIP North	I
+Autoclaves	WIP South	I
+Autoclaves	Test Lab	U
+WIP North	WIP South	X
+WIP North	Test Lab	U
+WIP South	Test Lab	U
