@@ -146,47 +146,47 @@ HR	Autoclaves	U
 HR	WIP North	U
 HR	WIP South	U
 HR	Test Lab	U
-Break Rm North	Break Rm South	U
-Break Rm North	3D Printing	U
-Break Rm North	2D Cutting	X
-Break Rm North	Software Lab	U
-Break Rm North	Assembly	X
-Break Rm North	Metal Machine Shop	X
-Break Rm North	Composite Machine Shop	X
-Break Rm North	Ship/Receive	U
-Break Rm North	Inventory	U
-Break Rm North	Clean Rm N/S	U
-Break Rm North	Freezers W/S	U
-Break Rm North	Shop Manager	U
-Break Rm North	Wet Layup	U
-Break Rm North	Prepreg Layup	U
-Break Rm North	Paint	X
-Break Rm North	Cure Ovens	X
-Break Rm North	Composite Sanding	X
-Break Rm North	Autoclaves	X
-Break Rm North	WIP North	X
-Break Rm North	WIP South	X
-Break Rm North	Test Lab	U
-Break Rm South	3D Printing	U
-Break Rm South	2D Cutting	X
-Break Rm South	Software Lab	U
-Break Rm South	Assembly	X
-Break Rm South	Metal Machine Shop	X
-Break Rm South	Composite Machine Shop	X
-Break Rm South	Ship/Receive	U
-Break Rm South	Inventory	U
-Break Rm South	Clean Rm N/S	U
-Break Rm South	Freezers W/S	U
-Break Rm South	Shop Manager	U
-Break Rm South	Wet Layup	U
-Break Rm South	Prepreg Layup	U
-Break Rm South	Paint	X
-Break Rm South	Cure Ovens	X
-Break Rm South	Composite Sanding	X
-Break Rm South	Autoclaves	X
-Break Rm South	WIP North	X
-Break Rm South	WIP South	X
-Break Rm South	Test Lab	U
+Break Rm N	Break Rm South	U
+Break Rm N	3D Printing	U
+Break Rm N	2D Cutting	X
+Break Rm N	Software Lab	U
+Break Rm N	Assembly	X
+Break Rm N	Metal Machine Shop	X
+Break Rm N	Composite Machine Shop	X
+Break Rm N	Ship/Receive	U
+Break Rm N	Inventory	U
+Break Rm N	Clean Rm N/S	U
+Break Rm N	Freezers W/S	U
+Break Rm N	Shop Manager	U
+Break Rm N	Wet Layup	U
+Break Rm N	Prepreg Layup	U
+Break Rm N	Paint	X
+Break Rm N	Cure Ovens	X
+Break Rm N	Composite Sanding	X
+Break Rm N	Autoclaves	X
+Break Rm N	WIP North	X
+Break Rm N	WIP South	X
+Break Rm N	Test Lab	U
+Break Rm S	3D Printing	U
+Break Rm S	2D Cutting	X
+Break Rm S	Software Lab	U
+Break Rm S	Assembly	X
+Break Rm S	Metal Machine Shop	X
+Break Rm S	Composite Machine Shop	X
+Break Rm S	Ship/Receive	U
+Break Rm S	Inventory	U
+Break Rm S	Clean Rm N/S	U
+Break Rm S	Freezers W/S	U
+Break Rm S	Shop Manager	U
+Break Rm S	Wet Layup	U
+Break Rm S	Prepreg Layup	U
+Break Rm S	Paint	X
+Break Rm S	Cure Ovens	X
+Break Rm S	Composite Sanding	X
+Break Rm S	Autoclaves	X
+Break Rm S	WIP North	X
+Break Rm S	WIP South	X
+Break Rm S	Test Lab	U
 3D Printing	2D Cutting	U
 3D Printing	Software Lab	O
 3D Printing	Assembly	I
@@ -257,21 +257,21 @@ Assembly	Autoclaves	O
 Assembly	WIP North	E
 Assembly	WIP South	E
 Assembly	Test Lab	E
-Metal Machine Shop	Composite Machine Shop	E
-Metal Machine Shop	Ship/Receive	I
-Metal Machine Shop	Inventory	I
-Metal Machine Shop	Clean Rm N/S	X
-Metal Machine Shop	Freezers W/S	U
-Metal Machine Shop	Shop Manager	I
-Metal Machine Shop	Wet Layup	U
-Metal Machine Shop	Prepreg Layup	U
-Metal Machine Shop	Paint	U
-Metal Machine Shop	Cure Ovens	O
-Metal Machine Shop	Composite Sanding	O
-Metal Machine Shop	Autoclaves	U
-Metal Machine Shop	WIP North	E
-Metal Machine Shop	WIP South	E
-Metal Machine Shop	Test Lab	I
+Machine Shop	Composite Machine Shop	E
+Machine Shop	Ship/Receive	I
+Machine Shop	Inventory	I
+Machine Shop	Clean Rm N/S	X
+Machine Shop	Freezers W/S	U
+Machine Shop	Shop Manager	I
+Machine Shop	Wet Layup	U
+Machine Shop	Prepreg Layup	U
+Machine Shop	Paint	U
+Machine Shop	Cure Ovens	O
+Machine Shop	Composite Sanding	O
+Machine Shop	Autoclaves	U
+Machine Shop	WIP North	E
+Machine Shop	WIP South	E
+Machine Shop	Test Lab	I
 Composite Machine Shop	Ship/Receive	O
 Composite Machine Shop	Inventory	I
 Composite Machine Shop	Clean Rm N/S	X
